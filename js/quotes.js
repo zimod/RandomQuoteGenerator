@@ -26,4 +26,34 @@ var quotes = [
    source:"Helen Keller",
    tags:["Inspirational","Beautiful"]
  },
+ { quote:"If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+   source:"J.K. Rowling",
+   citation:"Harry Potter and the Goblet of Fire",
+   year:"2000",
+   tags:["Personality","Life"]
+ },
+ { quote:"No one can make you feel inferior without your consent.",
+   source:"Eleanor Roosevelt",
+   citation:"This is My Story",
+   year:"1939",
+   tags:["Yourself","Consent"]
+ },
+ { quote:"Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+   source:"Martin Luther King Jr",
+   citation:"A Testament of Hope: The Essential Writings and Speeches",
+   year:"1986",
+   tags:["Darkness","Light","Hope"]
+ },
+ { quote:"I am so clever that sometimes I don't understand a single word of what I am saying.",
+   source:"Oscar Wilde",
+   citation:"The Happy Prince and Other Stories",
+   year:"1888",
+   tags:["Clever","Humor"]
+ },
+ { quote:"Without music, life would be a mistake.",
+   source:"Friedrich Nietzsche",
+   citation:"Twilight of the Idols",
+   year:"1889",
+   tags:["Life","Music"]
+ },
 ];
