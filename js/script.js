@@ -81,7 +81,7 @@ function changeBackGroundColor(){
 
 function main(){
   printQuote();
-//  var timer = window.setInterval(printQuote, 5000);//added a timer so that after 5 seconds a new quote pop up
+  var timer = window.setInterval(printQuote, 30000);//added a timer so that after 5 seconds a new quote pop up
 }
 
 main();
